@@ -1,8 +1,8 @@
 #!/bin/bash
 ### Set conexiuni tool ###
 passfile=pass
-threads=1500
-port=22
+threads=5000
+port=2222
 #
 WHI='[1;37m'
 BLK='[1;30m'
